@@ -91,18 +91,7 @@ a{
     left: 750px;
     top: 400px;
 }
-#newscontainer{
-    height: 200px;
-    width: 200px;
-    border-color: black;
-    border-style:groove;
-    border-bottom: 2px;
-    border-left: 2px;
-    background-color: white;
-    position: absolute;
-    left: 1000px;
-    top: 450px;
-}
+
 #line1{
     height: 40px;
     width: 200px;
@@ -196,6 +185,18 @@ p.five{
     top: 558px;
     font-size: 12px;
 }
+#newscontainer{
+    height: 200px;
+    width: 200px;
+    border-color: black;
+    border-style:groove;
+    border-bottom: 2px;
+    border-left: 2px;
+    background-color: white;
+    position: absolute;
+    left: 1000px;
+    top: 450px;
+}
 #news1{
     height: 40px;
     width: 200px;
@@ -203,14 +204,13 @@ p.five{
     #D37D18;   
     position: absolute;
     left: 1000px;
-    top: 450px;
+    top: 437px;
 }
 #news2{
     font-family: 'Bebas Neue';
     position:absolute;
-    left: 1050px;
-    top: 430px;
-    text-transform: uppercase;
+    left: 1020px;
+    top: 450px;
 
 }
 #news3{
@@ -220,6 +220,31 @@ p.five{
     font-size: large;
     line-height: 29px;
     position: absolute;
-    top: 470px;
+    top: 490px;
     left: 1050px;
+}
+#clock{
+    position: absolute;
+    left: 1010px;
+    top: 510px;
+    font-size: 20px;
+}
+#news4{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-weight: bold;
+    position: absolute;
+    left: 1010px;
+    top: 520px;
+    font-size: 20px;
+}
+#note{
+    font-family: 'Inria Sans';
+    font-weight: lighter;
+    position: absolute;
+    left: 1010px;
+    top: 580px;
+    font-size: 20px;
+    font-size:medium;
+}
 }
