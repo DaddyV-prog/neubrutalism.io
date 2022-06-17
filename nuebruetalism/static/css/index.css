@@ -2,7 +2,8 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     width: inherit;
     height: inherit;
-    background-color:rgb(248, 177, 89);
+    background-color:
+    #FFDCA8;
 }
 #container{
     background-color: black;
@@ -37,4 +38,188 @@ a{
 #logo{
     height: 200px;
     width: 200px;
+}
+#article{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: black;
+    font-size: 40px;
+    
+}
+#container2{
+    height: 50px;
+    width: 200px;
+    border-top: 1.5px;
+    border-right: 3px;
+    border-bottom: 3px;
+    border-left: 1.5px;
+    border-style: solid;
+    border-radius: 10%;
+    background-color: 
+    #D31888;
+    position: absolute;
+    left: 200px;
+    top: 350px;
+}
+#store{
+    color: black;
+    font-family:fantasy;
+    font-weight: lighter;
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: ;
+}
+#line{
+    height: 300px;
+    width: 2px;
+    background-color: black;
+    position: absolute;
+    top: 350px;
+    left: 600px;
+}
+#features{
+    height: 200px;
+    width: 200px;
+    border-color: black;
+    border-style:groove;
+    border-bottom: 2px;
+    border-left: 2px;
+    background-color: white;
+    position: absolute;
+    left: 750px;
+    top: 400px;
+}
+#newscontainer{
+    height: 200px;
+    width: 200px;
+    border-color: black;
+    border-style:groove;
+    border-bottom: 2px;
+    border-left: 2px;
+    background-color: white;
+    position: absolute;
+    left: 1000px;
+    top: 450px;
+}
+#line1{
+    height: 40px;
+    width: 200px;
+    background-color: 
+    #18D3D3;
+    position: absolute;
+    left: 750px;
+    top: 385px;
+}
+p.one{
+    font-weight: bold;
+    font-size: small;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    -height: 24px;
+    position: absolute;
+    top: 390px;
+    left: 770px;
+}
+p.two{
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: large;
+    line-height: 29px;
+    position: absolute;
+    top: 440px;
+    left: 770px;
+}
+p.three{
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: large;
+    line-height: 29px;
+    position: absolute;
+    top: 470px;
+    left: 770px;
+}
+p.four{
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: large;
+    line-height: 29px;
+    position: absolute;
+    top: 500px;
+    left: 770px;
+}
+p.five{
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: large;
+    line-height: 29px;
+    position: absolute;
+    top: 530px;
+    left: 770px;
+}
+#logo{
+    font-size: 250px;
+    position: absolute;
+    left: 1050px;
+    top: 150px;
+}
+#check{
+    position: absolute;
+    top: 468px;
+    left: 755px;
+    font-size: 12px;
+}
+#check1{
+    position: absolute;
+    top: 498px;
+    left: 755px;
+    font-size: 12px;
+
+}
+#check2{
+    position: absolute;
+    top: 528px;
+    left: 755px;
+    font-size: 12px;
+
+}
+#check3{
+    position: absolute;
+    left: 755px;
+    top: 558px;
+    font-size: 12px;
+}
+#news1{
+    height: 40px;
+    width: 200px;
+    background-color: 
+    #D37D18;   
+    position: absolute;
+    left: 1000px;
+    top: 450px;
+}
+#news2{
+    font-family: 'Bebas Neue';
+    position:absolute;
+    left: 1050px;
+    top: 430px;
+    text-transform: uppercase;
+
+}
+#news3{
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: large;
+    line-height: 29px;
+    position: absolute;
+    top: 470px;
+    left: 1050px;
 }
