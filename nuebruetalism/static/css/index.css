@@ -1,0 +1,40 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: inherit;
+    height: inherit;
+    background-color:rgb(248, 177, 89);
+}
+#container{
+    background-color: black;
+    height: 70px;
+    width: 200px;
+}
+#intro{
+    color: white;
+    font-family:fantasy;
+    font-weight: lighter;
+    font-size: x-large;
+    text-decoration: underline;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+}
+ul{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    position: absolute;
+    top: 30px;
+    left: 950px;
+    word-spacing: 20px;
+}
+li{
+    display: inline;
+}
+a{
+    color: black;
+}
+#logo{
+    height: 200px;
+    width: 200px;
+}
